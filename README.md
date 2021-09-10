@@ -82,7 +82,7 @@ By including Kentico Kontent default styles, you can make your Custom element lo
 The [/shared](https://github.com/Kentico/kontent-custom-element-samples/tree/master/shared) folder in this GitHub repository contains:
 
 * [custom-element-v2.css](https://github.com/Kentico/kontent-custom-element-samples/blob/master/shared/custom-element-v2.css) – a CSS stylesheet
-* [kentico-icons-v3.0.0.woff2](https://github.com/Kentico/kontent-custom-element-samples/blob/master/shared/kentico-icons-v3.0.0.woff2) – a font file
+* [kentico-icons-v3.0.1.woff2](https://github.com/Kentico/kontent-custom-element-samples/blob/master/shared/kentico-icons-v3.0.1.woff2) – a font file
 * [examples.html](https://github.com/Kentico/kontent-custom-element-samples/blob/master/shared/examples.html) – An HTML page containing the implementation details and an HTML markup of some of the basic elements. See also the link in Demo section.
 
 <br />
