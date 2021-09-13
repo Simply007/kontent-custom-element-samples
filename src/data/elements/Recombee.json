@@ -1,0 +1,13 @@
+{
+  "title": "Recombee",
+  "description": "Personalize your content recommendations with Recombee and Kentico Kontent.",
+  "thumbnailUrl": "../assets/Recombee.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-example-integration-recombee",
+  "logoUrl": "https://raw.githubusercontent.com/Kentico/kontent-example-integration-recombee/master/docs/recombee-logo.png",
+  "categories": [
+    "Personalization",
+    "Recommendations"
+  ],
+  "core": true,
+  "tech": "TypeScript"
+}
