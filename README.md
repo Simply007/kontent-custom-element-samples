@@ -1,4 +1,4 @@
-# Gallery of Custom Element samples for Kentico Kontent
+# Gallery of Custom Element samples for Kontent by Kentico
 
 
 ![Last modified][last-commit]
@@ -21,7 +21,7 @@
 <image src="kk-logo.svg" alt="kontent logo" width="300"/>
 </p>
 
-## [Custom elements](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) help you with extending the functionality of Kentico Kontent UI and thus **improving the content editing experience**.
+## [Custom elements](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) help you with extending the functionality of Kontent's UI and thus **improving the content editing experience**.
 
 <p align="center">
   <a href="#introduction">Intro</a> •
@@ -36,7 +36,7 @@
 
 
 # Introduction
-A Custom element is essentially a small HTML application that exists in a sandboxed `<iframe>` and interacts with the [Kentico Kontent](https://kontent.ai/) app via the [Custom Elements API](https://docs.kontent.ai/reference/custom-elements-js-api).
+A Custom element is essentially a small HTML application that exists in a sandboxed `<iframe>` and interacts with the [Kontent by Kentico](https://kontent.ai/) app via the [Custom Elements API](https://docs.kontent.ai/reference/custom-elements-js-api).
 
 The **Gallery of Custom Element samples** contains a list of different custom elements that might help you to extend content editing capabilities inside of your Kontent project, or even connect with different 3rd party services (like Digital Asset Management tools, or eCommerce solutions).
 
@@ -77,7 +77,7 @@ You can find a detailed tutorial on how to create a Custom element in our [docum
 
 ### Styling your custom elements
 
-By including Kentico Kontent default styles, you can make your Custom element look consistent with the rest of the UI.
+By including default styles from Kontent, you can make your Custom element look consistent with the rest of the UI.
 
 The [/shared](https://github.com/Kentico/kontent-custom-element-samples/tree/master/shared) folder in this GitHub repository contains:
 
@@ -121,7 +121,7 @@ The pull request should include:
 * Your repository should include a `README.md` file containing
   * A description of the custom element functionality
   * A screenshot/gif showcasing the custom element
-  * Step by step instructions how to add custom element to the Kentico Kontent UI
+  * Step by step instructions how to add custom element to the Kontent application
   * Configuration description example
   * Example of the output in the Delivery Response
   * If possible, a "Deploy to Netlify" button to make it easy to get started ([e.g. Deploying section of SimpleMDE Markdown Editor](https://github.com/Kentico/kontent-custom-element-simplemde-markdown-editor#deploying))
@@ -168,7 +168,7 @@ ontribute to this project in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # Additional Resources
 - [List of core integrations & technology partners](https://kontent.ai/integrations)
-- [Kentico Kontent's Integration documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrations-overview)
+- [Kontent's Integration documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrations-overview)
 - [Custom Element documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/content-editing-extensions)
 - [Custom Element API reference](https://docs.kontent.ai/reference/custom-elements-js-api)
 
