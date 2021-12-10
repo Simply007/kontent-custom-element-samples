@@ -2,8 +2,9 @@
   "title": "Slatwall Commerce",
   "description": "<strong>Slatwall Commerce</strong> product selector is an advanced custom element which allows users to add one or multiple products from their product catalog to a Kontent CMS page by search, category, product type, and brand filters.",
   "thumbnailUrl": "../assets/SlatwallCommerce.gif",
-  "readmeUrl": "https://github.com/ten24/slatwall-plugin-kontent",
+  "readmeUrl": "https://www.slatwallcommerce.com/kontent",
   "logoUrl": "https://www.slatwallcommerce.com/default/themes/velocity/assets/images/favicon.ico",
   "categories": ["eCommerce"],
-  "tech": "React"
+  "tech": "React",
+  "core":true
 }
