@@ -1,7 +1,7 @@
 {
   "title": "Unique URL slug",
   "description": "The Unique URL slug custom element works same way as OOTB URL slug element and extends it by ensuring its uniqueness.",
-  "thumbnailUrl": "../assets/UniqueURLSlug.gif)",
+  "thumbnailUrl": "../assets/UniqueURLSlug.gif",
   "readmeUrl": "https://github.com/hzik/Unique-URL-Slug/",
   "categories": [
     "Other"
