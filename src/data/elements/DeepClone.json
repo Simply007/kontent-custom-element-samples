@@ -1,1 +1,0 @@
-{"title":"Deep clone","description":"Create a deep clone of the item, cloning every linked descendant.","thumbnailUrl":"../assets/DeepClone.png","readmeUrl":"https://github.com/yuriys-kentico/KenticoKontentKonservatory/tree/main/Client/src/routes/elements/deepClone","categories":["Utilities"], "tech": "Svelte"}
