@@ -27,7 +27,7 @@ The first thing to do is to create a basic HTML page to hold your custom element
 </body>
 </html>
 ```
-What you see above is a basic HTML with [jQuery](https://jquery.com/) and [SimpleMDE](https://github.com/Kentico/kontent-custom-element-simplemde-markdown-editor) in the head and a body with places for the editor itself (the text area) and code that will fill in the editor with what you want.
+What you see above is a basic HTML with [jQuery](https://jquery.com/) and [SimpleMDE](https://github.com/Kentico/kontent-custom-element-simplemde-markdown-editor) in the head and a body with places for the editor itself (the text area) and code for the business logic around the editor.
 
 ## 2. Include the Custom Elements API
 The Custom Elements API is a JavaScript API that enables you to create custom elements for Kontent. Add it to the head of your page.
@@ -52,7 +52,7 @@ You might want the Markdown editor to look slightly different from the rest of t
 If you want to make your custom element look consistent with the rest of the Kontent UI, you can use the [prepared styling on GitHub](https://github.com/Kentico/kontent-custom-element-samples/tree/master/shared). There, you'll find `custom-element.css` with styles and `kentico-icons-v3.0.1.woff2` for all the Kontent icons, plus some examples in `examples.html`.
 
 ## 4. Initialize your custom element
-To get your element started, you need to get information from Kontent about where your element is. This helps you determine things like what size the element should have and whether the current user can edit the item. The latter lets you know whether or not to allow your custom editor to edit the item.
+To get your element started, you need to get information from Kontent about where your element is. This helps you to determine things like what size the element should have and whether the current user can edit the item. The latter lets you know whether or not to allow your custom editor to edit the item.
 
 To get this information, use the [`init` method](https://kontent.ai/learn/reference/custom-elements-js-api/#a-init-method) from the API by adding the following code.
 
@@ -78,9 +78,9 @@ function initCustomElement() {
 
 initCustomElement();
 ```
-Here, you're using a function that sets up your editor using the `init` method. That function's parameters tells your editor whether there's already a value and if the editor should be disabled.
+Here, you're using a function that sets up your editor using the `init` method. That function's parameters tell your editor whether there's already a value and if the editor should be disabled.
 
-The initialization also includes a call to update the size of the editor to fit the UI. Additionally, it uses the [`onDisabledChanged` method](https://kontent.ai/learn/reference/custom-elements-js-api/#a-ondisabledchanged-method) to detect any changes in the element's state so that if the item is disabled in the UI (for example, if it's published), the element updates its state.
+The initialization also includes a call to update the size of the editor to fit the UI. Additionally, it uses the [`onDisabledChanged` method](https://kontent.ai/learn/reference/custom-elements-js-api/#a-ondisabledchanged-method) to detect any changes in the element's state so that if the item is disabled in the UI (for example, when it's published), the element updates its state.
 
 There's also error handling that places an error both in the console and in the editor itself as its initial value in case an exception occurs.
 
@@ -139,7 +139,7 @@ function updateSize() {
 ```
 The function finds how tall the element should be and then sets it with the [`setHeight` method](https://kontent.ai/learn/reference/custom-elements-js-api/#a-setheight-method).
 
-If you want to make your custom element scrollable, consider also adding a border or a shadow to it to distinguish the element from the rest of the UI.
+If you want to make your custom element scrollable, consider also adding a border or a shadow to it to distinguish it from the rest of the UI.
 
 ## 8. Ensure the element is disabled correctly
 When an item is disabled in the Kontent UI, it's important to disable your custom editor, too. Otherwise, you'd run into issues with updates to published items or users editing items they don't have permissions for. Define a function that sets the state of the editor.
