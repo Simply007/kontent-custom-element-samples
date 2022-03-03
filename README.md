@@ -21,7 +21,7 @@
 <image src="kk-logo.svg" alt="kontent logo" width="300"/>
 </p>
 
-## [Custom elements](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) help you with extending the functionality of Kontent's UI and thus **improving the content editing experience**.
+## [Custom elements](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions) help you with extending the functionality of Kontent's UI and thus **improving the content editing experience**.
 
 <p align="center">
   <a href="#introduction">Intro</a> •
@@ -36,7 +36,7 @@
 
 
 # Introduction
-A Custom element is essentially a small HTML application that exists in a sandboxed `<iframe>` and interacts with the [Kontent by Kentico](https://kontent.ai/) app via the [Custom Elements API](https://docs.kontent.ai/reference/custom-elements-js-api).
+A Custom element is essentially a small HTML application that exists in a sandboxed `<iframe>` and interacts with the [Kontent by Kentico](https://kontent.ai/) app via the [Custom Elements API](https://kontent.ai/learn/reference/custom-elements-js-api).
 
 The **Gallery of Custom Element samples** contains a list of different custom elements that might help you to extend content editing capabilities inside of your Kontent project, or even connect with different 3rd party services (like Digital Asset Management tools, or eCommerce solutions).
 
@@ -73,7 +73,7 @@ The custom elements denoted as **core integration** are focusing on a selected s
 
 # How to create your own custom element
 
-You can find a detailed tutorial on how to create a Custom element in our [documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features).
+Check out a detailed tutorial on [how to create a Custom element](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions).
 
 ### Styling your custom elements
 
@@ -168,9 +168,9 @@ ontribute to this project in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # Additional Resources
 - [List of core integrations & technology partners](https://kontent.ai/integrations)
-- [Kontent's Integration documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrations-overview)
-- [Custom Element documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/content-editing-extensions)
-- [Custom Element API reference](https://docs.kontent.ai/reference/custom-elements-js-api)
+- [Kontent's Integration documentation](https://kontent.ai/learn/tutorials/develop-apps/integrate/integrations-overview)
+- [Custom Element documentation](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions)
+- [Custom Element API reference](https://kontent.ai/learn/reference/custom-elements-js-api)
 
 
 [last-commit]: https://img.shields.io/github/last-commit/Kentico/kontent-custom-element-samples?style=for-the-badge
