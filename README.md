@@ -73,7 +73,9 @@ The custom elements denoted as **core integration** are focusing on a selected s
 
 # How to create your own custom element
 
-You can find a detailed tutorial on how to create a Custom element in our [documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features).
+See [our dedicated tutorial](./CREATE_CUSTOM_ELEMENT.md) on how to create a custom element for Kontent.
+
+Also, have a look at the general overview of [deploying custom elements to Kontent](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions).
 
 ### Styling your custom elements
 
