@@ -1,0 +1,9 @@
+{
+  "title": "URL slug history",
+  "description": "Preserve the history of content item's URL slugs.",
+  "thumbnailUrl": "../assets/UrlSlugHistory.png",
+  "readmeUrl": "https://github.com/ondrabus/kontent-url-slug-history-custom-element",
+  "categories": [
+    "Other"
+  ]
+}
