@@ -28,7 +28,7 @@ const Layout = ({ children }) => {
           textAlign: "right"
         }}
       >
-        © {new Date().getFullYear()} Kentico
+        © {new Date().getFullYear()} Kontent.ai
       </footer>
     </>
   )
