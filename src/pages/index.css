@@ -1,0 +1,71 @@
+
+.callout {
+  border-radius: 16px;
+  color: #151515;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  max-width: 1000px;
+  padding: 24px;
+}
+
+.callout--is-warning {
+  background: #fff1ea;
+}
+
+.callout--has-s-shadow {
+  box-shadow: 0 0 8px 0 #00000008,0 8px 14px 0 #10213c14;
+}
+
+.callout__title {
+  align-items: center;
+  color: #151515;
+  display: inline-flex;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-bottom: 16px;
+}
+
+.callout--is-warning .callout__title {
+  color: #a35f00;
+}
+
+.callout__title-icon {
+  margin-right: 8px;
+}
+
+.callout__message {
+  color: #151515;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.callout__subtitle {
+  color: #151515;
+  font-family: Inter,sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+  margin-bottom: 16px;
+}
+
+.callout__subtitle+p {
+  margin-top: 0;
+}
+
+@font-face{
+  font-family:kentico-icons;
+  font-style:normal;
+  font-weight:400;
+  src:url(../../shared/kentico-icons-v3.0.1.woff2) format("woff2");
+}
+
+.icon-exclamation-triangle:before{
+  font-family: kentico-icons, sans-serif;
+  content:"\e693";
+}
