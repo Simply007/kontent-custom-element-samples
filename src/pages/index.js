@@ -131,9 +131,9 @@ const IndexPage = () => {
                                             This website will be removed.
                                             If you want to check out our core integrations,
                                             please visit <a href="https://kontent.ai/integrations/">this page</a> or
-                                            check out <a href="https://github.com/topics/kontent-ai-custom-element">this topic</a> on GitHub.
+                                            check out <a href="https://github.com/topics/kontent-ai-integration">this topic</a> on GitHub.
                                             If you want to make your integration visible,
-                                            use the <a href="https://github.com/topics/kontent-ai-custom-element">topic</a> in your repository.
+                                            use the <strong>kontent-ai-integration</strong>topic</a> in your repository.
                                         </p>
                                     </div>
                                 </div>
