@@ -1,17 +1,10 @@
 # Gallery of Custom Element samples for Kontent.ai
 
-![Last modified][last-commit]
-[![Issues][issues-shield]][issues-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+> **Warning**
 
-[![Stack Overflow][stack-shield]](https://stackoverflow.com/tags/kentico-kontent)
-[![GitHub Discussions][discussion-shield]](https://github.com/Kentico/Home/discussions)
+> This repository has been archived and is currently not being updated anymore. Please, check out our [**new alternative documentation on GitHub**](https://kontent-ai.github.io/integrations/Integrations), as well as the [**brand new react template for custom elements**](https://github.com/kontent-ai/custom-element-template-react). 
 
-<hr />
-
-![CI deployment](https://github.com/Kentico/kontent-custom-element-samples/workflows/CI%20deployment/badge.svg?style=for-the-badge?style=for-the-badge)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7e07037-df60-476f-81ec-628ab95130bf/deploy-status?style=for-the-badge)](https://app.netlify.com/sites/kontent-custom-element-samples/deploys)
+> The gallery itself has been deprecated as well - new list of available custom elements can be found [**here**](https://github.com/topics/kontent-ai-integration).
 
 <hr />
 
