@@ -1,0 +1,10 @@
+{
+  "title": "Google Places",
+  "description": "This is a custom element for Kentico Kontent that allows users to easily get the geo-coordinates for a location using the Google Places API.",
+  "thumbnailUrl": "../assets/GooglePlacesSearch.png",
+  "readmeUrl": "https://github.com/ChristopherJennings/kontent-custom-element-google-places-search",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

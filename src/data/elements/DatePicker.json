@@ -1,0 +1,10 @@
+{
+  "title": "Date Picker",
+  "description": "This is a simple calendar control based on jQuery UI DatePicker which lets you pick a date.",
+  "thumbnailUrl": "../assets/DatePicker.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-sample-date-picker",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Item synchronizer",
+  "description": "This element allows you to sync items from one project to another",
+  "thumbnailUrl": "../assets/ItemSynchronizer.gif",
+  "readmeUrl": "https://github.com/hzik/ItemSynchronizer/",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

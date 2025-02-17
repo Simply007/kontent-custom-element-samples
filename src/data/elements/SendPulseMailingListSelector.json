@@ -1,0 +1,12 @@
+{
+    "title": "SendPulse",
+    "description": "<strong>The SendPulse Mailing List Selector</strong> allows you to retrieve mailing lists from SendPulse.",
+    "thumbnailUrl": "../assets/SendPulseMailingListSelector.gif",
+    "readmeUrl": "https://github.com/Kentico/kontent-custom-element-sendpulse",
+    "logoUrl": "https://assets-us-01.kc-usercontent.com/4e9bdd7a-2db8-4c33-a13a-0c368ec2f108/893deed4-102b-414c-adeb-6ae34c5ced99/sendpulse_logo.png",
+    "categories": [
+        "Emails"
+    ],
+    "core": true,
+    "tech": "Vanilla JS"
+}

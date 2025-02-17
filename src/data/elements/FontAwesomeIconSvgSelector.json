@@ -1,0 +1,10 @@
+{
+  "title": "Font Awesome Icon SVG Selector",
+  "description": "Custom element allowing to pick Font Awesome icon. Custom element stores the value as icon's SVG.",
+  "thumbnailUrl": "../assets/FontAwesomeIconSvgSelector.gif",
+  "readmeUrl": "https://github.com/Simply007/kontent-custom-element-font-awesome-selector-svg",
+  "categories": [
+    "Icons"
+  ],
+  "tech": "Vanilla JS"
+}

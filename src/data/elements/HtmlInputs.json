@@ -1,0 +1,10 @@
+{
+  "title": "HTML Inputs",
+  "description": "This is a custom element for Kentico Kontent that allows you to define a group of HTML inputs that your editors can fill out one or more times. You can combine any number of HTML5 inputs into a single element -> text, textarea, color, date, time, number, radio, checkbox, password and range.",
+  "thumbnailUrl": "../assets/HtmlInputs.png",
+  "readmeUrl": "https://github.com/hzik/kontent-custom-element-sample-html-inputs",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

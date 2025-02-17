@@ -1,0 +1,107 @@
+html {
+  overflow-y:scroll;
+}
+
+.input--cesg {
+  border: 1px solid #757575;
+  margin: 0;
+  max-width: 100%;
+  margin-bottom: 16px;
+}
+
+.input--cesg:focus {
+  border-color: #f05a22;
+}
+
+.input--cesg:focus ~ .label,
+.input--cesg.js-filled ~ .label {
+  color: #231f20;
+}
+
+.cards {
+  justify-content: space-evenly;
+}
+
+.card:nth-child(1n):not(.card--partner), .featured__pinned .card {
+  border-radius: 30px;
+}
+
+.card__content_bottom.categories {
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  text-align: left; 
+  margin-bottom: -30px;  
+  z-index: 999;
+}
+.card__content_bottom.techs {
+  margin-right: 20px;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+body {
+  background-image: linear-gradient(135deg,#f3f4f5,#d3dff3);
+}
+
+#logo {
+      
+    margin-left: 50px;
+    float: left;
+}
+
+.tag {
+ /* border-radius: 100px 100px 100px;*/
+  font-weight: bold;
+}
+
+.tag.core {
+    display: block;
+    font-size: 14px;
+    line-height: 16px;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #f05a22;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: color .35s;
+    border-radius: 0px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: -5px;
+}
+
+.tag.tag--blue {
+  background-color: rgb(55, 81, 124);
+  font-weight: normal;
+  color: white;
+  border: 1px solid rgb(55, 81, 124);
+  text-transform: none;
+}
+
+.tag.categories {
+  margin: 0px;
+}
+
+span.category-option {
+  padding: 5px;
+  margin-left: 10px;
+  display: inline-block;
+  background-color:transparent;
+  color: #f05a22;
+  font-weight: bold;
+}
+
+.filter__checkboxes {
+  display: inline-block;
+  vertical-align: middle !important;
+}
+.filter__checkboxes > span{
+  vertical-align: middle !important;
+}
+
+.card-link-inner {
+  text-decoration: none;
+  color: inherit;
+}
+

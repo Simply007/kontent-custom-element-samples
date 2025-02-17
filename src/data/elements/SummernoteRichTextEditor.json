@@ -1,0 +1,11 @@
+{
+  "title": "Summernote Rich Text Editor",
+  "description": "This custom element is based on the Summernote rich text editor. It allows you to switch to the Source code mode to edit or see the HTML markup!",
+  "thumbnailUrl": "../assets/SummernoteRichTextEditor.gif",
+  "readmeUrl": "https://github.com/hzik/kontent-custom-element-summernote",
+  "categories": [
+    "Editor",
+    "Text"
+  ],
+  "tech": "Vanilla JS"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "SVG Icon Selector",
+  "description": "This is a custom element for Kentico Kontent that allows users to select an SVG icon from a list of provided icons.",
+  "thumbnailUrl": "../assets/SvgIconSelector.jpg",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-svg-icon-selector",
+  "categories": [
+    "Icons"
+  ],
+  "tech": "Vanilla JS"
+}

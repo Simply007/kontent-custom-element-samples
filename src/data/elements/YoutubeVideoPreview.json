@@ -1,0 +1,10 @@
+{
+  "title": "YouTube preview",
+  "description": "This custom element allows you to add various types of Youtube video URL, it extracts and stores the video id for your apps and shows the video.",
+  "thumbnailUrl": "../assets/YouTubePreview.png",
+  "readmeUrl": "https://github.com/hzik/kk_youtube",
+  "categories": [
+    "Video"
+  ],
+  "tech": "Vanilla JS"
+}

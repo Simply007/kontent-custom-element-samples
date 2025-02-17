@@ -1,0 +1,12 @@
+{
+  "title": "commercetools",
+  "description": "<strong>commercetools product selector</strong> is a selector which allows users to search and select a product from their product catalog in commercetools.",
+  "thumbnailUrl": "../assets/commercetools.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-commercetools",
+  "logoUrl": "https://assets-us-01.kc-usercontent.com/4e9bdd7a-2db8-4c33-a13a-0c368ec2f108/bcaf4c5e-c2be-48f1-a5d4-a28351455be0/commercetools.svg",
+  "categories": [
+    "eCommerce"
+  ],
+  "core": true,
+  "tech": "Vue.js"
+}

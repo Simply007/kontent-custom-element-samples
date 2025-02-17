@@ -1,0 +1,10 @@
+{
+  "title": "Ace Code Editor (Syntax Highlighter)",
+  "description": "This custom element is an editable text area enhanced by the Ace Code Editor to provide a programmer-friendly environment for writing code examples. Offers a fine selection of programming languages to be highlighted.",
+  "thumbnailUrl": "../assets/AceCodeEditor.png",
+  "readmeUrl": "https://github.com/MilanLund/ace-kenticocloud-customelement",  
+  "categories": [
+    "Text", "Editor"
+  ],
+  "tech": "Vanilla JS"
+}

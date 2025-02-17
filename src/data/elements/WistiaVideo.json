@@ -1,0 +1,10 @@
+{
+  "title": "Wistia video",
+  "description": "Link your selected Wistia videos with your content through this custom element.",
+  "thumbnailUrl": "../assets/WistiaVideo.gif",
+  "readmeUrl": "https://github.com/Enngage/kontent-custom-element-wistia",
+  "categories": [
+    "Video"
+  ],
+  "tech": "Angular"
+}

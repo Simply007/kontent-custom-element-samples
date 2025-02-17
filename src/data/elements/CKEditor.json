@@ -1,0 +1,11 @@
+{
+  "title": "CKEditor 4",
+  "description": "This custom element is based on the <strong>CKEditor 4 WYSIWYG</strong> text editor.",
+  "thumbnailUrl": "../assets/CKEditor.png",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-ckeditor",
+  "categories": [
+    "Editor",
+    "Text"
+  ],
+  "tech": "Vanilla JS"
+}

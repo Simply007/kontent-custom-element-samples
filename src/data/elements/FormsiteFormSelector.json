@@ -1,0 +1,10 @@
+{
+    "title": "Formsite Forms",
+    "description": "<strong>The Formsite Form selector</strong> allows to retrieve created forms in Formsite and use them on your website.",
+    "thumbnailUrl": "../assets/FormsiteFormSelector.gif",
+    "readmeUrl": "https://github.com/JKannekens/kontent-custom-element-formsite",
+    "categories": [
+      "Forms"
+    ],
+    "tech": "Vanilla JS"
+  } 

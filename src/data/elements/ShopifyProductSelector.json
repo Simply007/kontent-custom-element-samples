@@ -1,0 +1,12 @@
+{
+  "title": "Shopify",
+  "description": "<strong>Shopify product selector</strong> is a selector connected to Shopify Storefront which allows users to search and select a product from Shopify product catalog.",
+  "thumbnailUrl": "../assets/ShopifyProductSelector.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-shopify",
+  "logoUrl": "https://assets-us-01.kc-usercontent.com/4e9bdd7a-2db8-4c33-a13a-0c368ec2f108/2e068201-29e2-4cc3-a530-11b146f05a4b/shopify_glyph.svg",
+  "categories": [
+    "eCommerce"
+  ],
+  "core": true,
+  "tech": "Vanilla JS"
+}

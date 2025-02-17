@@ -1,0 +1,11 @@
+{
+  "title": "Keyword Extractor",
+  "description": "This custom element gives you a way to automatically generate keywords for an item based on the content in it. ",
+  "thumbnailUrl": "../assets/KeywordExtractor.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-keyword-extractor",
+  "categories": [
+    "Analytics",
+    "Utilities"
+  ],
+  "tech": "Vue.js"
+}

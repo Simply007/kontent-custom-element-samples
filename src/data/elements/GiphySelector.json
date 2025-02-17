@@ -1,0 +1,10 @@
+{
+  "title": "Giphy",
+  "description": "<strong>The Giphy Selector</strong> allows you to search images on Giphy and select one.",
+  "thumbnailUrl": "../assets/GiphySelector.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-giphy-selector",
+  "categories": [
+    "Images"
+  ],
+  "tech": "Vanilla JS"
+}

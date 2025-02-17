@@ -1,0 +1,9 @@
+{
+  "title": "Label",
+  "description": "This custom element just shows its value with no option to edit it.",
+  "thumbnailUrl": "../assets/Label.png",
+  "readmeUrl": "https://github.com/hzik/Label",
+  "categories": [
+    "Other"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "RegEx extension",
+  "description": "With this custom element you can extend the Text element by a regular expression for its validation.",
+  "thumbnailUrl": "../assets/Regex.gif",
+  "readmeUrl": "https://github.com/hzik/RegEx",
+  "categories": [
+    "Other"
+  ]
+}

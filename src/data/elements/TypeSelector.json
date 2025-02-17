@@ -1,0 +1,11 @@
+  
+{
+  "title": "Content types selector",
+  "description": "This custom element for Kentico Kontent gives editors a way to select content types from current project",
+  "thumbnailUrl": "../assets/TypeSelector.gif",
+  "readmeUrl": "https://github.com/Simply007/kontent-custom-element-type-selector",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Flickr",
+  "description": "<string>The Flickr image selector</string? allows you to search images on Flickr and select one. NOTE: Selected image may be subject to copyright and/or usage restrictions.",
+  "thumbnailUrl": "../assets/FlickrImageSelector.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-flickr-image-selector",
+  "categories": [
+    "Images"
+  ],
+  "tech": "Vanilla JS"
+}

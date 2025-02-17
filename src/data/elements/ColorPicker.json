@@ -1,0 +1,10 @@
+{
+  "title": "Color Picker",
+  "description": "<strong>The Color picker</strong> allows user to choose a color from palette and sets it as a HEX string, e.g. '#ff0000' for red color, '#00ff00' for green, etc.",
+  "thumbnailUrl": "../assets/ColorPicker.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-sample-color-picker",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

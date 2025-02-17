@@ -1,0 +1,11 @@
+{
+  "title": "SimpleMDE (Markdown Editor)",
+  "description": "<strong>SimpleMDE</strong> is a markdown editor which allows users to write formatted text. In this sample element, you can find examples of setting dynamic height and reacting on the window ‘resize’ events. When the element is disabled, the editor is set to the read-only mode.",
+  "thumbnailUrl": "../assets/SimpleMDEMarkdownEditor.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-simplemde-markdown-editor",
+  "categories": [
+    "Editor",
+    "Text"
+  ],
+  "tech": "Vanilla JS"
+}

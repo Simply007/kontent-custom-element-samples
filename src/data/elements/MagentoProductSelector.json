@@ -1,0 +1,12 @@
+{
+  "title": "Magento",
+  "description": "<strong>The Magento product selector</strong> is a selector connected to Magento instance which allows users to search and select a product from the Magento product catalog.",
+  "thumbnailUrl": "../assets/MagentoProductSelector.gif",
+  "readmeUrl": "https://github.com/Kentico/kontent-custom-element-sample-magento",
+  "logoUrl": "https://assets-us-01.kc-usercontent.com/4e9bdd7a-2db8-4c33-a13a-0c368ec2f108/1f4a6ce1-e05b-40aa-8d0d-20145e63d286/magento-seeklogo.com.svg",
+  "categories": [
+    "eCommerce"
+  ],
+  "core": true,
+  "tech": "Vanilla JS"
+}

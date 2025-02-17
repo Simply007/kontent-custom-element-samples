@@ -1,0 +1,10 @@
+{
+  "title": "Country State Selector",
+  "description": "<strong>The Country and State selector</strong> is a drop down selector which allows users to select country and state (if country has any).",
+  "thumbnailUrl": "../assets/CountryStateSelector.png",
+  "readmeUrl": "https://github.com/ondrabus/kc-country-selector",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "React"
+}

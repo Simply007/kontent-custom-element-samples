@@ -1,0 +1,10 @@
+{
+  "title": "Uniform Optimize",
+  "description": "Uniform connects your CMS with modern developer tools, CDNs and provide the fastest, most scalable way of running your site with personalization.",
+  "thumbnailUrl": "../assets/UniformOptimize.gif",
+  "readmeUrl": "https://docs.uniform.app/optimize/dev/content-management/kontent/getting-started",
+  "logoUrl": "https://uniform.dev/img/favicon/icon-192x192.png",
+  "categories": ["Personalization"],
+  "core": true,
+  "tech": "Vue.js"
+}

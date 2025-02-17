@@ -1,0 +1,11 @@
+{
+  "title": "Toggle Switch",
+  "description": "This custom element provides a simple on/off toggle switch.",
+  "thumbnailUrl": "../assets/ToggleSwitch.png",
+  "readmeUrl": "https://github.com/hzik/kc_inputs",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}
+

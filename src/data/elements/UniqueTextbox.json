@@ -1,0 +1,10 @@
+{
+  "title": "Unique Textbox",
+  "description": "This custom element checks whether your entered value is unique across all items in your project in specified element.",
+  "thumbnailUrl": "../assets/UniqueTextbox.gif",
+  "readmeUrl": "https://github.com/hzik/kontent-custom-element-unique-textbox",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Item selector",
+  "description": "This element offers items from another project to be linked with your item",
+  "thumbnailUrl": "../assets/ItemSelector.png",
+  "readmeUrl": "https://github.com/hzik/kontent-custom-element-item-selector",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

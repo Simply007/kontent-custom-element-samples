@@ -1,0 +1,10 @@
+{
+  "title": "Link checker",
+  "description": "This custom element gets all links from all rich text elements on your item and checks whether they are live or not.",
+  "thumbnailUrl": "../assets/LinkChecker.gif",
+  "readmeUrl": "https://github.com/hzik/LinkChecker",
+  "categories": [
+    "Utilities"
+  ],
+  "tech": "Vanilla JS"
+}

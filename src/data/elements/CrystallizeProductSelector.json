@@ -1,0 +1,10 @@
+{
+  "title": "Crystallize",
+  "description": "<strong>The Crystallize product selector</strong> is a selector which allows users to search and select a product from Crystallize product catalog.",
+  "thumbnailUrl": "../assets/CrystallizeProductSelector.png",
+  "readmeUrl": "https://github.com/huluvu21/kontent-custom-element-crystallize",
+  "categories": [
+    "eCommerce"
+  ], 
+  "tech": "Vanilla JS"
+}
